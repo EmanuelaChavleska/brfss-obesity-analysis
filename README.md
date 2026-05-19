@@ -44,6 +44,11 @@ From the analysis, several clear patterns were identified between obesity and li
 Obesity rates were higher among individuals with lower levels of physical activity. Age also showed a clear pattern, with obesity increasing in middle-aged groups and peaking around 50–54 years.
 
 Income level also showed a relationship with obesity, where lower-income groups tended to have higher obesity prevalence. In addition, certain chronic health conditions such as diabetes and heart disease were more common among obese individuals.
+<img width="1415" height="795" alt="Screenshot 2026-05-19 182353" src="https://github.com/user-attachments/assets/5ca3f1eb-71e9-4df9-b28f-7ab475582e55" />
+
+<img width="1417" height="791" alt="Screenshot 2026-05-19 182415" src="https://github.com/user-attachments/assets/f0466be7-85db-4ef1-9ffa-2b76ba9f1060" />
+
+
 
 ## Business Recommendations:
 Based on these findings, the following actions can be considered:
