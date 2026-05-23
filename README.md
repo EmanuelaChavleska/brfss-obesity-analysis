@@ -34,10 +34,6 @@ I chose Power BI because it allows for clear visualization of patterns and relat
 
 Finally, I built an interactive dashboard to explore obesity trends across demographic and lifestyle factors.
 
-## Skills:
-SQL: aggregate functions, joins, case.
-Power BI: ETL, DAX, data visualization.
-
 ## Results and Insights:
 From the analysis, several clear patterns were identified between obesity and lifestyle and demographic factors.
 
